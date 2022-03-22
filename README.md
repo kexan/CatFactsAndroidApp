@@ -1,7 +1,7 @@
 # CatFactsAndroidApp
 Facts about cats
 
-Simple project with RecyclerView
+Simple project with RecyclerView using **CatFacts REST API** https://alexwohlbruck.github.io/cat-facts/
 
 ![image](https://user-images.githubusercontent.com/20909509/159499272-a7d689e8-0933-4415-98fc-4f18ebf94cf7.png)
 ![image](https://user-images.githubusercontent.com/20909509/159499320-0c313822-3026-4da2-a8f7-f001fa244b9c.png)
