@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Cat Facts</string>
+    <string name="description_share">Share</string>
+    <string name="no_cat_facts_available">no cat facts available</string>
+    <string name="chooser_share_fact">Share fact</string>
+
+</resources>
